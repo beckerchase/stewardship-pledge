@@ -4,11 +4,11 @@
 
 As an investor in innovation, I recognize:
 
-> Our industry of innovation capital has the power to drive both private value creation and sustainable, positive societal transformation;
+- Our industry of innovation capital has the power to drive both private value creation and sustainable, positive societal transformation;
 
-> My purpose is to direct capital and expertise to create shared value by accelerating the pace of innovation through company formation and growth; and
+- My purpose is to direct capital and expertise to create shared value by accelerating the pace of innovation through company formation and growth; and
 
-> My investment decisions affect the well-being of individuals inside and outside my own organization, the companies in which we invest, my capital partners, the industries in which we work, and beyond, both today and in the future.
+- My investment decisions affect the well-being of individuals inside and outside my own organization, the companies in which we invest, my capital partners, the industries in which we work, and beyond, both today and in the future.
 
 Therefore, in the **spirit of stewardship toward all my stakeholders,** I acknowledge and pledge the following:
 
