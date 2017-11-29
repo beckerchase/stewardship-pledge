@@ -1,7 +1,7 @@
 ## STEWARDSHIP PLEDGE : Keepers of the Pledge OSS Repo
 Welcome!  This is a repo in service of the Kauffman Fellows **Stewardship Pledge** (www.kauffmanfellows.org/our-pledge)
 
-MISSION: Collect and manage improvements on a rolling basis to maintain and constantly improve the `Stewardship Pledge`.  Mainly used by Kauffman Fellows, but open to the world and anyone supportive of the mission.  Will merge major updates *at least* annually each June.
+REPO CHARTER: Collect and manage improvements on a rolling basis to maintain and constantly improve the `Stewardship Pledge`.  Mainly used by Kauffman Fellows, but open to the world and anyone supportive of the mission.  Will merge major updates *at least* annually each June.
 
 ## OVERVIEW & CONTEXT for the PLEDGE
 We are at a unique moment in the evolution of the venture capital industry.  The industry can no longer ignore the ethical and moral issues that arise alongside its investment activities, from power imbalances, lack of inclusion or conflicts of interest. 
