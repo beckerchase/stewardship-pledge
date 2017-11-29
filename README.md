@@ -12,7 +12,7 @@ This Stewardship Pledge is our attempt to respond to this need.  It draws inspir
  
 We also invite our fellow investors to join us as well.  With over 500 Kauffman Fellows around the world, you are already in good company.  But there is power in numbers – and we would be immensely grateful to have your engagement and partnership in this effort.
  
-Most importantly, this is a living document.  We know it is far from perfect.  Over the course of each year, a volunteer group of Kauffman Fellows will collect and consider improvements to the Pledge based suggestions and lived experience, which will be released around the annual graduation module in June.  We welcome any and all ideas for improvement.  Please contact [hello@kfp.org].
+Most importantly, this is a living document.  We know it is far from perfect.  Over the course of each year, a volunteer group of Kauffman Fellows will collect and consider improvements to the Pledge based suggestions and lived experience, which will be released around the annual graduation module in June.  We welcome any and all ideas for improvement.  Please contact info@kfp.org.
  
 Use this Pledge however you see fit.  Sign it, email it, Instagram it, put it on your desk, tape it to your door, add it to your PPM.  Whatever you do, live it!  The only rule is to share back what you learn from the experience and how we might better serve the mission.
  
